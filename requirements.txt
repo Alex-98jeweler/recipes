@@ -1,0 +1,4 @@
+aiohttp==3.8.1
+SQLAlchemy==1.4.35
+pyyaml==6.0
+
